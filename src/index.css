@@ -4,10 +4,6 @@
   box-sizing: border-box;
 }
 
-body{
-  zoom: 0.7 !important
-}
-
 @keyframes blink {
   0% {
     opacity: 0;
